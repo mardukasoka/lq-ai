@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Legal Council — AI-Native Legal Firm</title>
+<style>
+body{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;max-width:760px;margin:0 auto;padding:28px 18px;line-height:1.55;background:#fafafa;color:#171717}
+h1{font-size:1.55rem}h2{font-size:1.05rem;margin-top:2rem}a{color:inherit;text-decoration-thickness:1px}.card{border-top:1px solid #bbb;padding:14px 0}.small{font-size:.9rem;color:#555}nav a{margin-right:1rem}
+</style></head><body>
+<nav><a href="./">Directory</a><a href="https://github.com/mardukasoka/lq-ai/tree/main/legal-firm">Text source</a></nav>
+<h1>LEGAL COUNCIL / AI-NATIVE LEGAL FIRM</h1>
+<p>Protocol-first legal organization for the Atlas/Council. The canonical information architecture is plain text so it can also be served through Gemini, Gopher, terminal and agent interfaces.</p>
+<p class="small">Legal research and operations system — not a substitute for qualified human legal counsel.</p>
+<h2>DIRECTORY</h2>
+<div id="directory"></div>
+<h2>MATTER FLOW</h2>
+<pre>Client / Atlas
+  ↓
+General Counsel / Front of House
+  ↓
+Jurisdiction · Conflicts · Confidentiality
+  ↓
+Specialist Practice Group
+  ↓
+Research / Drafting Agents
+  ↓
+Adversarial Review
+  ↓
+Citation + Evidence Verification
+  ↓
+Authority / Execution Gate
+  ↓
+Human Lawyer when required
+  ↓
+Verified Matter Record</pre>
+<script>
+const pages=[
+["General Counsel / Front of House","Intake, conflicts, jurisdiction, confidentiality, triage, routing and escalation.","general-counsel"],
+["Corporate & Commercial","Governance, contracts, suppliers, partnerships, model/API agreements and agent commerce.","corporate-commercial"],
+["Intellectual Property & Data","Open-source licensing, datasets, media, trademarks, generated content and provenance.","ip-data"],
+["AI, Privacy & Technology Regulation","AI governance, privacy, cybersecurity, autonomous agents and delegated authority.","ai-regulation"],
+["Employment & Agent Economy","Employees, contractors, human escalation and machine-to-human delegation.","employment-agent-economy"],
+["Disputes, Research & Evidence","Authorities, claims, disputes, evidence, adversarial review and citation verification.","disputes-evidence"],
+["Legal Operations & Verification","Matter records, provenance, citation graphs, audit and institutional memory.","legal-operations"],
+["Open-Source Components","Candidate repositories and their proposed roles.","open-source"],
+["Escalation & Authority","Agent preparation versus human approval and qualified-counsel gates.","escalation"]];
+document.querySelector("#directory").innerHTML=pages.map(p=>'<div class="card"><a href="page.html?p='+p[2]+'"><strong>'+p[0]+'</strong></a><br>'+p[1]+'</div>').join("");
+</script></body></html>
