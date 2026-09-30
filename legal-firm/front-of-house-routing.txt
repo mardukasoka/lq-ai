@@ -1,0 +1,50 @@
+LEGAL FRONT OF HOUSE — v0.1
+=============================
+
+STATUS
+Routing-only pilot. No external action authority.
+
+PURPOSE
+The Front of House is the single intake point for a Legal Council matter.
+It classifies a request, recommends the appropriate practice group and
+existing LQ.AI capability, flags possible privilege/confidentiality
+sensitivity, identifies the required human/authority gate, and stops.
+
+ROUTING
+Primary departments:
+- General Counsel / Front of House
+- Corporate & Commercial
+- Intellectual Property & Data
+- AI, Privacy & Technology Regulation
+- Employment & Agent Economy
+- Disputes, Research & Evidence
+- Legal Operations & Verification
+- Escalation & Authority
+
+OUTPUT
+Intake summary
+Route
+Existing capability
+Review gate
+Information needed
+Proposed next step
+Authority status
+
+AUTHORITY
+ROUTING ONLY — NO EXTERNAL ACTION AUTHORIZED.
+
+The Front of House cannot call tools, contact third parties, file
+documents, sign or accept terms, spend funds, mutate external records,
+or make its own routing recommendation executable.
+
+Privilege is a recommendation for handling, not a declaration that
+legal privilege exists.
+
+TESTING
+The pilot fixture set covers contracts, IP/licensing, privacy/AI,
+employment, disputes, evidence operations, authority, cross-practice
+matters and ambiguous jurisdiction.
+
+Public fixtures -> foh-routing-fixtures.txt
+Directory -> index.html
+Canonical skill -> https://github.com/mardukasoka/lq-ai/tree/main/skills/legal-front-of-house
