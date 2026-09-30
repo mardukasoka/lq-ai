@@ -1,0 +1,34 @@
+DISPUTES, RESEARCH & EVIDENCE
+============================
+
+Functions
+- Statute, regulation and case-law research
+- Jurisdiction checks
+- Claim decomposition
+- Evidence organization and chronologies
+- Correspondence analysis
+- Argument construction
+- Counterargument / RED review
+- BLUE response
+- Citation and quotation verification
+- Evidence preservation support
+- Draft work product for professional review
+
+Council pattern
+Research Agent -> proposition
+Authority Agent -> primary authority
+Adversarial Agent -> challenge
+Citation Verifier -> verify authority and support
+General Counsel -> review
+Human Lawyer -> professional judgment where required
+
+No agent should certify its own unsupported proposition.
+
+Economic opportunities
+Verified legal research; litigation research support; citation audits; evidence chronologies; due diligence; adversarial document review.
+
+Links
+Legal Operations -> legal-operations.txt
+Escalation -> escalation.txt
+General Counsel -> general-counsel.txt
+Root -> index.txt
