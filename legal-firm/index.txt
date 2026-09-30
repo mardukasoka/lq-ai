@@ -1,0 +1,57 @@
+LEGAL COUNCIL / AI-NATIVE LEGAL FIRM
+====================================
+
+Plain-text institutional directory for Web, Gemini, Gopher, terminal and agent interfaces.
+
+This system supports legal research and legal operations. It does not replace licensed legal counsel. Matters requiring professional legal judgment, representation, filing, privilege-sensitive decisions, or jurisdiction-specific advice must be escalated to qualified human counsel.
+
+DIRECTORY
+
+1. GENERAL COUNSEL / FRONT OF HOUSE
+   Intake, conflicts, jurisdiction, confidentiality, triage, routing and escalation.
+   -> general-counsel.txt
+
+2. CORPORATE & COMMERCIAL
+   Governance, contracts, suppliers, partnerships, model/API agreements and agent commerce.
+   -> corporate-commercial.txt
+
+3. INTELLECTUAL PROPERTY & DATA
+   Open-source licensing, datasets, media, trademarks, generated content and provenance.
+   -> ip-data.txt
+
+4. AI, PRIVACY & TECHNOLOGY REGULATION
+   AI governance, privacy, cybersecurity, autonomous agents and delegated authority.
+   -> ai-regulation.txt
+
+5. EMPLOYMENT & AGENT ECONOMY
+   Employees, contractors, human escalation, human tasking and machine-to-human delegation.
+   -> employment-agent-economy.txt
+
+6. DISPUTES, RESEARCH & EVIDENCE
+   Authorities, claims, disputes, evidence, adversarial review and citation verification.
+   -> disputes-evidence.txt
+
+7. LEGAL OPERATIONS & VERIFICATION
+   Matter records, provenance, citation graphs, audit and institutional memory.
+   -> legal-operations.txt
+
+8. OPEN-SOURCE COMPONENTS
+   Candidate repositories and their proposed roles.
+   -> open-source.txt
+
+9. ESCALATION & AUTHORITY
+   Agent preparation versus human approval / qualified-counsel gates.
+   -> escalation.txt
+
+MATTER FLOW
+
+Client / Atlas
+  -> General Counsel / Front of House
+  -> jurisdiction + conflicts + confidentiality
+  -> specialist practice group(s)
+  -> research / drafting agents
+  -> adversarial review
+  -> citation + evidence verification
+  -> authority / execution gate
+  -> human lawyer when required
+  -> verified matter record
