@@ -1,0 +1,29 @@
+AI, PRIVACY & TECHNOLOGY REGULATION
+==================================
+
+Functions
+- AI governance and agent-authority policies
+- Privacy and data minimization
+- Confidential-data controls
+- Cybersecurity governance
+- Autonomous-action controls
+- Human oversight and disclosure requirements
+- Regulatory monitoring
+- Cross-border data questions
+- Model/provider risk
+- Incident governance
+- Agent identity and accountability
+
+Core principle
+Reasoning authority and execution authority are separate. An agent may conclude that an action should occur without possessing authority to perform it.
+
+Economic opportunities
+AI governance audits; agent authority frameworks; regulatory mapping; deployment risk reviews; execution-governor policy design; incident documentation.
+
+Links
+General Counsel -> general-counsel.txt
+Corporate -> corporate-commercial.txt
+Employment -> employment-agent-economy.txt
+Legal Operations -> legal-operations.txt
+Escalation -> escalation.txt
+Root -> index.txt
