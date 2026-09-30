@@ -1,0 +1,27 @@
+EMPLOYMENT & AGENT ECONOMY
+==========================
+
+Functions
+- Employment-document support
+- Contractor classification support
+- Contractor agreements
+- Human escalation procedures
+- Human task marketplaces
+- Workplace AI policies
+- AI-assisted supervision issues
+- Human payment and authorization records
+- Machine-to-human delegation
+- Responsibility chains
+- Agent identity / principal mapping
+
+Research frontier
+AI-native organizations may purchase human work when machine capabilities are insufficient. This raises contracting, classification, disclosure, supervision, payment, safety and accountability questions.
+
+Economic opportunities
+Human-escalation policy design; agent-workforce governance; contractor workflow documentation; AI workplace compliance support.
+
+Links
+AI Regulation -> ai-regulation.txt
+Corporate -> corporate-commercial.txt
+Legal Operations -> legal-operations.txt
+Root -> index.txt
