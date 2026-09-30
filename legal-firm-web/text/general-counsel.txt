@@ -1,0 +1,30 @@
+GENERAL COUNSEL / FRONT OF HOUSE
+================================
+
+Role: single entrance to the legal organization.
+
+Functions
+- Matter intake and identity
+- Jurisdiction classification
+- Conflict screening
+- Confidentiality / privilege classification
+- Risk classification
+- Practice-group routing
+- Cross-practice coordination
+- Matter supervision and status
+- Human-review determination
+- Qualified-counsel escalation
+- Matter closure
+
+Boundary
+The front-of-house agent coordinates work. Routing capability does not confer legal or execution authority.
+
+Links
+Corporate & Commercial -> corporate-commercial.txt
+IP & Data -> ip-data.txt
+AI Regulation -> ai-regulation.txt
+Employment & Agent Economy -> employment-agent-economy.txt
+Disputes & Evidence -> disputes-evidence.txt
+Legal Operations -> legal-operations.txt
+Escalation & Authority -> escalation.txt
+Root -> index.txt
