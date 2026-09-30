@@ -1,0 +1,30 @@
+OPEN-SOURCE COMPONENT DIRECTORY
+===============================
+
+Candidates are implementation/research components, not endorsements. Audit before integration.
+
+LQ.AI
+Repository: https://github.com/mardukasoka/lq-ai
+Role: host workspace / operating shell for this firm.
+
+LAVERN
+Repository: https://github.com/mardukasoka/lavern
+Role: study specialist-agent debate, evidence review, verification and human-gate patterns.
+
+GLAW
+Repository: https://github.com/mardukasoka/glaw
+Role: study virtual-firm departments, staged matter flow, hard gates and agent-economy patterns.
+
+CITE / OPENCONTRACTS
+Repository: https://github.com/mardukasoka/OpenContracts
+Role: candidate institutional legal document / citation graph.
+
+INTERNAL COMPONENTS
+Trackinizer -> evidence and provenance ledger
+Council -> specialist deliberation and disagreement
+Execution Governor -> deterministic authorization boundary
+Front of House -> intake, routing and client interface
+
+Links
+Legal Operations -> legal-operations.txt
+Root -> index.txt
