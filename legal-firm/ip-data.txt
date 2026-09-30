@@ -1,0 +1,26 @@
+INTELLECTUAL PROPERTY & DATA
+============================
+
+Functions
+- Open-source licence review and dependency inventory
+- Repository attribution and contribution review
+- Dataset and database rights
+- Image / media rights
+- Copyright analysis support
+- Trademark tracking
+- Generated-content provenance
+- Training / inference data restrictions
+- Research-source attribution
+- Licence compatibility
+
+Project exposure
+Atlas combines code, scientific datasets, historical material, imagery, 3D assets, texts and AI-generated material. Reusable assets should carry source, licence and permitted-use metadata where practicable.
+
+Economic opportunities
+Open-source compliance audits; dataset provenance audits; AI-content provenance; repository licence review; media-rights workflows.
+
+Links
+Corporate -> corporate-commercial.txt
+AI Regulation -> ai-regulation.txt
+Legal Operations -> legal-operations.txt
+Root -> index.txt
