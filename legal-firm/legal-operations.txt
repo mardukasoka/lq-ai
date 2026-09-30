@@ -1,0 +1,35 @@
+LEGAL OPERATIONS & VERIFICATION
+===============================
+
+Functions
+- Matter identifiers and scoped records
+- Source and claim provenance
+- Citation graph and document versions
+- Agent identity and action logs
+- Human approvals
+- Authority manifests
+- Execution receipts
+- Cost records
+- Matter retrospectives
+- Institutional precedent / memory
+
+Technical pattern
+Front of House
+  -> Legal Council
+  -> specialist agents
+  -> evidence verifier
+  -> institutional record
+  -> execution governor
+  -> permitted external action
+
+Candidate integrations
+Trackinizer -> durable evidence / provenance
+Council -> deliberation
+Execution Governor -> authority enforcement
+MCP -> governed tool boundary
+cite/OpenContracts -> document and citation graph
+
+Links
+Open Source -> open-source.txt
+Escalation -> escalation.txt
+Root -> index.txt
