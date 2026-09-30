@@ -1,0 +1,33 @@
+ESCALATION & AUTHORITY
+======================
+
+Principle
+Capability is not authority.
+
+Agents may research, organize, compare, draft and verify within authorized scope. Consequential actions require explicit authority.
+
+Human / qualified-counsel gates may include
+- Legal advice requiring professional judgment
+- Representation
+- Court or tribunal filings
+- Signing legal instruments
+- Privilege-sensitive disclosure decisions
+- Material settlement decisions
+- High-risk regulatory responses
+- Conflicts requiring professional determination
+- Novel / uncertain jurisdiction questions
+- Actions exceeding delegated financial authority
+
+Every consequential action should answer
+WHO proposed it?
+WHAT evidence supported it?
+WHICH agent / department reviewed it?
+WHAT authority permitted it?
+WHO approved it?
+WHAT was actually executed?
+WHAT was the result?
+
+Links
+General Counsel -> general-counsel.txt
+Legal Operations -> legal-operations.txt
+Root -> index.txt
