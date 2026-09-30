@@ -1,0 +1,27 @@
+CORPORATE & COMMERCIAL
+======================
+
+Functions
+- Organizational structure and governance support
+- Board / Council governance records
+- Commercial contract analysis
+- Vendor, hosting and infrastructure agreements
+- Model and API terms
+- Data-provider agreements
+- Partnerships and procurement
+- Agent-service and machine-to-machine agreements
+- Terms of service and customer agreements
+- Due-diligence support
+
+Project exposure
+Atlas/Council consumes model, hosting, data and open-source services. Contract rights, licence terms, data restrictions and delegated purchasing authority must remain traceable.
+
+Economic opportunities
+Contract review; contract playbooks; AI/API procurement review; startup legal operations; agent-commerce contracting; governance documentation.
+
+Links
+General Counsel -> general-counsel.txt
+IP & Data -> ip-data.txt
+AI Regulation -> ai-regulation.txt
+Legal Operations -> legal-operations.txt
+Root -> index.txt
